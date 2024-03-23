@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/nhatlx159/Matrix.Ecommerce.Service/issues"
   },
-  "homepage": "https://github.com/nhatlx159/Matrix.Ecommerce.Service#readme"
+  "homepage": "https://github.com/nhatlx159/Matrix.Ecommerce.Service#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.3"
+  }
 }
