@@ -1,0 +1,20 @@
+{
+  "name": "matrix.ecommerce.service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhatlx159/Matrix.Ecommerce.Service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhatlx159/Matrix.Ecommerce.Service/issues"
+  },
+  "homepage": "https://github.com/nhatlx159/Matrix.Ecommerce.Service#readme"
+}
